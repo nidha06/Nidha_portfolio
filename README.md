@@ -22,7 +22,7 @@ It showcases my projects, skills, and provides ways to connect with me.
 
 ## 📸 Screenshot
 
-![Portfolio Home Page](./portfolio-homepage)
+![Portfolio Home Page](./public/Portfolio-homepage.png)
 
 ---
 
